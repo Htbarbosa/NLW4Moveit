@@ -1,4 +1,4 @@
-## 🧪 Technologies
+## Technologies
 
 This project was developed using the following technologies:
 
@@ -6,11 +6,11 @@ This project was developed using the following technologies:
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 🔥 Preview
+## Preview
 
 [![Deploy with Vercel](https://vercel.com/button)](https://nlw4-moveit-henna.vercel.app/)
 
-## 🚀 Getting started
+## Getting started
 
 Clone the project and access the folder
 
@@ -27,7 +27,14 @@ $ yarn
 $ yarn dev
 ```
 
-## 💻 Project
+## Developer
+
+*Henrique Teles Barbosa*
+- [linkedin](https://www.linkedin.com/in/henrique-teles-barbosa-303666195/)
+- [rocketseat](https://app.rocketseat.com.br/me/htbarbosa)
+- [github](https://github.com/Htbarbosa)
+
+## Project
 
 This project was based on **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during February 22-28, 2021.
 
