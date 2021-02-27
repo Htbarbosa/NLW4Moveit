@@ -10,8 +10,8 @@ const { level, closeLevelUpModal } = useContext(ChallengesContext)
       <div className={styles.container}>
         <header>{ level }</header>
 
-        <strong>Parabéns</strong>
-        <p>Você alcançou um novo level</p>
+        <strong>Congratulations</strong>
+        <p>You've just leveled up!</p>
 
         <button type="button" onClick={closeLevelUpModal}>
           <img src="/icons/close.svg" alt="Fechar modal"/>
