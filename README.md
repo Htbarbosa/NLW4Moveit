@@ -31,4 +31,4 @@ $ yarn dev
 
 This project was based on **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during February 22-28, 2021.
 
-Some minor corrections were made based on the main project **[Github](https://github.com/guilhermecapitao/nlw04-moveit-web)**
+Some minor corrections were made based on the main **[Github](https://github.com/guilhermecapitao/nlw04-moveit-web)** project
